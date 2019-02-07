@@ -46,3 +46,9 @@ npm install file-loader --save-dev
 npm install webpack-bundle-analyzer --save-dev
 
 npm install react-router-dom --save
+
+npm install react-redux --save
+
+npm install redux --save
+
+npm install redux-thunk --save
